@@ -47,6 +47,13 @@ I am a passionate **Software Developer** focused on creating efficient, user-fri
 * **LinkedIn:** [linkedin.com/in/yourusername](https://linkedin.com/in/yourusername)
 * **Portfolio:** [yourwebsite.com](https://yourwebsite.com)
 
+
+### 📊 GitHub Overview
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ramzankhan-devyar&theme=tokyonight&hide_border=true&stroke=000000&background=0D1117&ring=38BDF8&fire=8B5CF6&currStreakNum=38BDF8" alt="Ramzan's GitHub Streak" />
+</p>
+
 <div align="center">
   <sub>Built with ❤️ by Ramzan Khan</sub>
 </div>
