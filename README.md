@@ -1,49 +1,30 @@
-# Muhhammad Ramzan 👋
+# Hi 👋 I'm Muhammad Ramzan
 
-**Software Engineer | Flutter | Web | AI**  
-Flutter Mobile Developer | Passionate about building apps and learning AI
+## DevOps Intern | Software Engineering Student
 
----
+I'm currently pursuing BS Software Engineering and actively building hands-on projects in Linux, Git, CI/CD, Jenkins, Docker, and Cloud Technologies.
 
-## About Me
-Hi! I'm Muhhammad Ramzan, a BS Software Engineering student at COMSATS University Islamabad, Attock Campus.  
-I love developing mobile apps using **Flutter**, building **web applications**, and exploring the world of **Artificial Intelligence**.  
+### 🚀 Current Focus
 
-- 🌱 Currently learning advanced **AI & Machine Learning**.
-- 💻 Skilled in **Flutter, Dart, Java, C++, Python, and SQL**.
-- 📫 Reach me at: `your-email@example.com`
-- ⚡ Fun fact: I enjoy solving complex problems and optimizing code for efficiency.
+* Linux Administration
+* Git & GitHub
+* CI/CD Pipelines
+* Jenkins Automation
+* Docker Containers
+* DevOps Fundamentals
 
----
+### 📂 Featured Projects
 
-## Skills
+* DecodeLabs DevOps Project 1 - Linux & CLI Basics
+* DecodeLabs DevOps Project 2 - Git Version Control
+* DecodeLabs DevOps Project 3 - CI/CD Pipeline Basics
 
-**Languages & Frameworks:**  
-Flutter, Dart, Java, C++, Python, HTML, CSS, JavaScript  
+### 🛠️ Tech Stack
 
-**Tools & Platforms:**  
-VS Code, Android Studio, Git & GitHub, Oracle SQL, MySQL  
+Linux | Git | GitHub | Jenkins | Docker | Java | SQL
 
-**AI & ML:**  
-Machine Learning basics, AI algorithms, Problem Solving
+### 📫 Connect With Me
 
----
+LinkedIn: [www.linkedin.com/in/ramzan-khan-669126301](http://www.linkedin.com/in/ramzan-khan-669126301)
 
-## Connect with me
-
-[![GitHub followers](https://img.shields.io/github/followers/Ramzankhan-dev?label=Follow&style=social)](https://github.com/Ramzankhan-dev?tab=followers)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/your-profile)  
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-blue?style=flat-square&logo=twitter)](https://twitter.com/your-profile)
-
----
-
-## Projects
-
-- **Bus Transport Management System** – AI-based seat reservation system using Python.  
-- **VOIP Network Design** – A network simulation project for department communications.  
-- **Library Management System** – Book management with AVL tree visualization in Java/C++.  
-
----
-
-> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
-
+GitHub: github.com/Ramzankhan-dev
